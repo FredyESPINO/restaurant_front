@@ -1,6 +1,6 @@
 import React,{useState} from 'react'
 import images from "../../constants/images"
-import {GiHamburgerMenu, GiTruce} from "react-icons/gi"
+import {GiHamburgerMenu} from "react-icons/gi"
 import {MdOutlineRestaurantMenu } from "react-icons/md"
 import "./Navbar.css"
 

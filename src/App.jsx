@@ -1,6 +1,6 @@
 import "./App.css"
 import React from 'react'
-import {AboutUs,Chef,Findus,Footer,Gallery,Header,Intro,Laurels,Menu,} from "./container"
+import {AboutUs,Chef,Findus,Footer,Gallery,Header,Laurels,Menu,} from "./container"
 import {Navbar} from "./components"
 
 const App = () => {
